@@ -29,7 +29,7 @@ An AI-powered market research and analysis tool built with CrewAI that provides 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/wimpoge/crewai-market-analysis
    cd crewai-market-analysis
    ```
 
